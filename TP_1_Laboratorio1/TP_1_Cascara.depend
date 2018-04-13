@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523647712 source:c:\test\ggrande\tp_1_cascara\funciones.c
+	<stdio.h>
+	"funciones.h"
+	<string.h>
+
+1523646469 c:\test\ggrande\tp_1_cascara\funciones.h
+
+1523648216 source:c:\test\ggrande\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
